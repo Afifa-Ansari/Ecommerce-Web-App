@@ -28,7 +28,7 @@ features
 
 
 usage
-$ git clone 
+$ git clone https://github.com/Afifa-Ansari/Ecommerce-Web-App.git
 
 $ cd frontend or backend
 
