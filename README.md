@@ -11,7 +11,7 @@ Mongoose schemas to model the application data
 
 React for displaying UI components
 
-features
+# features
 1: Users can browse the store products and brands.
 
 2: Users can Signup and Login.
@@ -27,7 +27,7 @@ features
 7:Admin user can create new products, edit and delete products
 
 
-usage
+# usage
 $ git clone https://github.com/Afifa-Ansari/Ecommerce-Web-App.git
 
 $ cd frontend or backend
